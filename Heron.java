@@ -1,3 +1,6 @@
+
+// This is my first Java code to commit to GitHub
+
 public class Heron {
     public static void main (String [] args) {
         // String validation 
