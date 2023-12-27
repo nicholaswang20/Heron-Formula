@@ -3,7 +3,7 @@
 
 import javax.swing.JOptionPane;
 
-public class sphereArea {
+public class sphereVolume {
     //Prompts user to input radius value 
     public static void main(String[] args) {
         String radiusString = 
