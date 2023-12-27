@@ -1,5 +1,5 @@
 
-// add comments
+// Code finds the sphere volume
 
 import javax.swing.JOptionPane;
 
